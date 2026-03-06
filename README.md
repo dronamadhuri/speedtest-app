@@ -75,8 +75,3 @@ Author
 Drona Madhuri Dadi
 CSE (AI & ML) Student
 Keshav Memorial Institute of Technology
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
->>>>>>> b401b5ca0b7242711c7010361328d0aff011c7b5
